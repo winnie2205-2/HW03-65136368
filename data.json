@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullname": "Wasinee Pimonwong",
+            "email": "wasinee@gmail.com",
+            "password": "1324"
+        }
+    ]
+}
